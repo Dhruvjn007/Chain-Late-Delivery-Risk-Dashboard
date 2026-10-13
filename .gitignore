@@ -1,0 +1,17 @@
+# Data: re-created by src/download_data.py and src/run_pipeline.py
+data/raw/*.csv
+data/processed/
+tableau/tableau_order_lines.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,15 @@
+,result
+rows,180519
+exact_duplicate_rows,0
+order_item_id_unique,True
+Benefit per order == Order Profit Per Order,True
+Sales per customer == Order Item Total,True
+Order Item Cardprod Id == Product Card Id,True
+Product Category Id == Category Id,True
+Order Customer Id == Customer Id,True
+Order Item Product Price == Product Price,True
+late_flag_matches_rule,True
+days_real_matches_dates,True
+one_mode_region_status_per_order,True
+gross_sales = price x qty,True
+net_sales = gross - discount (share),1.0

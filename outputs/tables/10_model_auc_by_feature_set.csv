@@ -1,0 +1,4 @@
+features,test_auc
+shipping_mode only,0.7427
+region + market + department + segment,0.5058
+all of the above,0.7448

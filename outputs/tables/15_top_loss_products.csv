@@ -1,0 +1,16 @@
+product,department,category,lines,loss_lines,loss_amount,profit,net_sales,loss_share_of_total,cum_loss_share
+Field & Stream Sportsman 16 Gun Fire Safe,Fan Shop,Fishing,17325,3209,728570.9461,756220.7672,6226935.2906,0.1876,0.1876
+Perfect Fitness Perfect Rip Deck,Apparel,Cleats,24515,4583,450978.2904,493828.2998,3973180.3628,0.1161,0.3037
+Diamondback Women's Serene Classic Comfort Bi,Fan Shop,Camping & Hiking,13729,2590,443082.2312,427455.5681,3700783.6285,0.1141,0.4178
+Nike Men's Free 5.0+ Running Shoe,Footwear,Cardio Equipment,12169,2271,400015.0389,379915.8185,3295693.2987,0.103,0.5208
+Pelican Sunstream 100 Kayak,Fan Shop,Water Sports,15500,2916,332804.2501,324076.37,2785518.0852,0.0857,0.6065
+Nike Men's Dri-FIT Victory Golf Polo,Golf,Women's Apparel,21035,3923,323772.8702,350421.0296,2828708.5,0.0834,0.6899
+Nike Men's CJ Elite 2 TD Football Cleat,Apparel,Men's Footwear,22246,4169,309269.6997,311902.8202,2598494.4207,0.0796,0.7695
+O'Brien Men's Neoprene Life Vest,Fan Shop,Indoor/Outdoor Games,19298,3617,298637.4795,318451.4306,2596454.0161,0.0769,0.8464
+Under Armour Girls' Toddler Spine Surge Runni,Golf,Shop By Sport,10617,2085,139661.4901,126278.5103,1140770.9568,0.036,0.8824
+Dell Laptop,Technology,Computers,442,73,74967.13,69656.8102,595395.0,0.0193,0.9017
+Web Camera,Technology,Cameras,592,108,27394.5399,30289.7999,240496.679,0.0071,0.9087
+Lawn mower,Outdoors,Garden,484,82,24511.9699,33443.0101,231765.4603,0.0063,0.9151
+Children's heaters,Apparel,Children's Clothing,652,125,23287.2199,27178.0996,209268.3806,0.006,0.9211
+Porcelain crafts,Apparel,Crafts,484,96,21768.96,25531.1701,200704.8703,0.0056,0.9267
+Smart watch,Fitness,Sporting Goods,357,60,12909.8699,12518.6101,105063.6115,0.0033,0.93

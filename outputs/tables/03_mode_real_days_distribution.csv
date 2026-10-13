@@ -1,0 +1,5 @@
+shipping_mode,days_scheduled,real_0_days,real_1_days,real_2_days,real_3_days,real_4_days,real_5_days,real_6_days
+Same Day,0,0.5207,0.4793,0.0,0.0,0.0,0.0,0.0
+First Class,1,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Second Class,2,0.0,0.0,0.2017,0.1999,0.1999,0.2003,0.1981
+Standard Class,4,0.0,0.0,0.2023,0.2009,0.1991,0.1961,0.2016
